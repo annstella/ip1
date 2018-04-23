@@ -1,0 +1,31 @@
+h1{
+  color: orange;
+}
+h3{
+  color: green;
+}
+p{
+  color: purple;
+}
+li{
+  font-style: italic;
+  color: green;
+}
+img{
+  float: right;
+}
+.test-box{
+  border-left: 2px solid red;
+  border-right: 4px solid yellow;
+  border-top: 6px solid green;
+  border-bottom: 8px solid black;
+}
+.test-box{
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+  background-color: yellow;
+}
+background{
+  background-color: yellow;
+}
