@@ -4,7 +4,7 @@
 ## Description
 The project explains about my interests,skills and hobbies.it further goes on to show about the list of projects created.it goes on to show some of the languages that we have learnt.
 ## Setup/Installation Requirements
-* uploaded in chrome
+* uploaded in chrome.
 ## Technologies Used
 I made use of the block and inline elements,the headers and paragraphs.
 ## Support and contact details
